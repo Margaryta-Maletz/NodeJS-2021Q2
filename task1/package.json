@@ -1,0 +1,21 @@
+{
+  "name": "task1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "commander": "^7.2.0",
+    "fs": "0.0.1-security",
+    "stream": "0.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Margaryta-Maletz <rita.maletz@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Margaryta-Maletz/NodeJS-2021Q2/issues"
+  },
+  "homepage": "https://github.com/Margaryta-Maletz/NodeJS-2021Q2#readme"
+}
